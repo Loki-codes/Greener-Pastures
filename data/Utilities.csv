@@ -1,0 +1,129 @@
+Rank,City,Basic,"(Electricity, Heating, Cooling, Water, Garbage) for 85m2 Apartment"
+1,"Anchorage, AK, United States",290.32
+2,"Honolulu, HI, United States",266.07
+3,"Queens, NY, United States",241.09
+4,"Tucson, AZ, United States",228.82
+5,"Tacoma, WA, United States",228.12
+6,"Charleston, SC, United States",214.47
+7,"Brampton, Canada",211.93
+8,"Fresno, CA, United States",211.21
+9,"Hamilton, Bermuda",208.34
+10,"Oakland, CA, United States",207.87
+11,"Wichita, KS, United States",207.47
+12,"Salem, OR, United States",207.04
+13,"Bellevue, WA, United States",205.44
+14,"Seattle, WA, United States",203.37
+15,"Cleveland, OH, United States",201.9
+16,"Saskatoon, Canada",194.42
+17,"Birmingham, AL, United States",194.05
+18,"Santa Rosa, CA, United States",192.81
+19,"Pittsburgh, PA, United States",191.99
+20,"Saint John's, Canada",191.13
+21,"Des Moines, IA, United States",189.89
+22,"Portland, OR, United States",188.06
+23,"New Orleans, LA, United States",186.61
+24,"Tulsa, OK, United States",186.02
+25,"Columbus, OH, United States",185.9
+26,"Red Deer, Canada",184.61
+27,"Saint Paul, MN, United States",182.34
+28,"Kansas City, MO, United States",182.04
+29,"Saint Louis, MO, United States",180.33
+30,"Edmonton, Canada",179.36
+31,"Detroit, MI, United States",179.13
+32,"Fort Worth, TX, United States",178.75
+33,"Chattanooga, TN, United States",176.58
+34,"Henderson, NV, United States",175.63
+35,"Boston, MA, United States",174.31
+36,"Mississauga, Canada",173.67
+37,"West Palm Beach, FL, United States",172.84
+38,"Nashville, TN, United States",172.18
+39,"Buffalo, NY, United States",172.11
+40,"Kitchener, Canada",170.59
+41,"Omaha, NE, United States",169.95
+42,"Vancouver, WA, United States",169.54
+43,"Phoenix, AZ, United States",169.38
+44,"Atlanta, GA, United States",167.95
+45,"Ann Arbor, MI, United States",167.88
+46,"New York, NY, United States",167.37
+47,"San Francisco, CA, United States",166.25
+48,"Sacramento, CA, United States",166.19
+49,"Orlando, FL, United States",165.91
+50,"Minneapolis, MN, United States",165.47
+51,"El Paso, TX, United States",165.22
+52,"Las Vegas, NV, United States",164.48
+53,"Albany, NY, United States",163.6
+54,"Calgary, Canada",162.26
+55,"Fremont, CA, United States",162.06
+56,"San Antonio, TX, United States",161.6
+57,"Lexington, KY, United States",161.02
+58,"Tampa, FL, United States",160.47
+59,"Olympia, WA, United States",159.5
+60,"Akron, OH, United States",159.38
+61,"Everett, WA, United States",158.76
+62,"Los Angeles, CA, United States",158.73
+63,"Little Rock, AR, United States",157.04
+64,"Dallas, TX, United States",156.38
+65,"Memphis, TN, United States",156.37
+66,"Houston, TX, United States",153.18
+67,"Washington, DC, United States",152.52
+68,"Charlotte, NC, United States",151.29
+69,"Indianapolis, IN, United States",150.59
+70,"Richmond, VA, United States",150.41
+71,"Chicago, IL, United States",150.39
+72,"Philadelphia, PA, United States",150.32
+73,"Brooklyn, NY, United States",150.26
+74,"Boise, ID, United States",148.66
+75,"Rochester, NY, United States",148.44
+76,"Berkeley, CA, United States",147
+77,"Oklahoma City, OK, United States",146.87
+78,"Miami, FL, United States",146.33
+79,"Baltimore, MD, United States",146
+80,"Winnipeg, Canada",145.46
+81,"Knoxville, TN, United States",144.56
+82,"Irvine, CA, United States",144.09
+83,"Austin, TX, United States",143.46
+84,"Fort Collins, CO, United States",142.7
+85,"Louisville, KY, United States",142.25
+86,"Spokane, WA, United States",140.56
+87,"Guelph, Canada",140.36
+88,"Baton Rouge, LA, United States",139.44
+89,"Sarasota, FL, United States",139.2
+90,"Jacksonville, FL, United States",138.74
+91,"Raleigh, NC, United States",137.9
+92,"Milwaukee, WI, United States",137.49
+93,"Kingston, Canada",137.46
+94,"Albuquerque, NM, United States",137.03
+95,"Cincinnati, OH, United States",136.83
+96,"San Diego, CA, United States",136.83
+97,"Huntsville, AL, United States",135.96
+98,"Halifax, Canada",135.41
+99,"Salt Lake City, UT, United States",135.17
+100,"Fredericton, Canada",135.05
+101,"Hamilton, Canada",134.4
+102,"Regina, Canada",133.7
+103,"Fort Lauderdale, FL, United States",132.63
+104,"Toronto, Canada",131.45
+105,"San Jose, CA, United States",130.48
+106,"Denver, CO, United States",127.49
+107,"Nanaimo, BC, Canada",126.65
+108,"Boulder, CO, United States",126.54
+109,"Eugene, OR, United States",126.44
+110,"Reno, NV, United States",125.85
+111,"Colorado Springs, CO, United States",124.06
+112,"Madison, WI, United States",119.71
+113,"Kelowna, Canada",116.76
+114,"London, Canada",115.3
+115,"Ottawa, Canada",114.75
+116,"Markham, Canada",114.48
+117,"Grand Rapids, MI, United States",112.14
+118,"Windsor, Canada",104.83
+119,"Surrey, Canada",103.36
+120,"Long Beach, CA, United States",101.75
+121,"Jersey City, NJ, United States",86.99
+122,"Burnaby, Canada",81.46
+123,"North Vancouver, Canada",81.33
+124,"Montreal, Canada",76.4
+125,"Victoria, Canada",74.85
+126,"Coquitlam, Canada",74.36
+127,"Quebec City, Canada",72.84
+128,"Vancouver, Canada",70.1
