@@ -1,0 +1,1114 @@
+,"GEO_city,state",year,MWE,MWE_Occupation Type_code,MWE_Occupation Type,MWE_Skill Level,MWE_How Paid,cityid,cityname,stateabbrev,statename,statefips,lat,lon,city_pop2019
+0,"Albuquerque, NM",2019,52.28,110000,Management occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+1,"Albuquerque, NM",2019,32.76,130000,Business and financial operations occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+2,"Albuquerque, NM",2019,22.69,150000,Computer and mathematical occupations,Level 05,All workers,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+3,"Albuquerque, NM",2019,48.99,170000,Architecture and engineering occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+4,"Albuquerque, NM",2019,35.44,190000,"Life, physical, and social science occupations",All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+5,"Albuquerque, NM",2019,23.67,210000,Community and social service occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+6,"Albuquerque, NM",2019,45.04,230000,Legal occupations,Level 11,All workers,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+7,"Albuquerque, NM",2019,26.99,250000,Educational instruction and library occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+8,"Albuquerque, NM",2019,29.34,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+9,"Albuquerque, NM",2019,41.97,290000,Healthcare practitioners and technical occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+10,"Albuquerque, NM",2019,14.69,310000,Healthcare support occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+11,"Albuquerque, NM",2019,20.77,330000,Protective service occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+12,"Albuquerque, NM",2019,11.94,350000,Food preparation and serving related occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+13,"Albuquerque, NM",2019,13.88,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+14,"Albuquerque, NM",2019,15.42,390000,Personal care and service occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+15,"Albuquerque, NM",2019,22.29,410000,Sales and related occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+16,"Albuquerque, NM",2019,18.29,430000,Office and administrative support occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+17,"Albuquerque, NM",2019,21.11,470000,Construction and extraction occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+18,"Albuquerque, NM",2019,22.06,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+19,"Albuquerque, NM",2019,19.70,510000,Production occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+20,"Albuquerque, NM",2019,18.29,530000,Transportation and material moving occupations,All levels,Full-time,32,Albuquerque,NM,New Mexico,35,35.09,-106.61,679121
+21,"Atlanta, GA",2019,61.38,110000,Management occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+22,"Atlanta, GA",2019,37.89,130000,Business and financial operations occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+23,"Atlanta, GA",2019,44.07,150000,Computer and mathematical occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+24,"Atlanta, GA",2019,41.44,170000,Architecture and engineering occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+25,"Atlanta, GA",2019,34.60,190000,"Life, physical, and social science occupations",All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+26,"Atlanta, GA",2019,25.02,210000,Community and social service occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+27,"Atlanta, GA",2019,50.76,230000,Legal occupations,All levels,Nonunion,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+28,"Atlanta, GA",2019,29.87,250000,Educational instruction and library occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+29,"Atlanta, GA",2019,30.59,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+30,"Atlanta, GA",2019,16.31,290000,Healthcare practitioners and technical occupations,Level 04,All workers,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+31,"Atlanta, GA",2019,16.26,310000,Healthcare support occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+32,"Atlanta, GA",2019,20.94,330000,Protective service occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+33,"Atlanta, GA",2019,13.61,350000,Food preparation and serving related occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+34,"Atlanta, GA",2019,14.51,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+35,"Atlanta, GA",2019,9.92,390000,Personal care and service occupations,Level 02,All workers,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+36,"Atlanta, GA",2019,26.04,410000,Sales and related occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+37,"Atlanta, GA",2019,20.05,430000,Office and administrative support occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+38,"Atlanta, GA",2019,22.33,470000,Construction and extraction occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+39,"Atlanta, GA",2019,24.55,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+40,"Atlanta, GA",2019,18.14,510000,Production occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+41,"Atlanta, GA",2019,20.52,530000,Transportation and material moving occupations,All levels,Full-time,36,Atlanta,GA,Georgia,13,33.75,-84.39,1063937
+42,"Austin, TX",2019,59.72,110000,Management occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+43,"Austin, TX",2019,36.55,130000,Business and financial operations occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+44,"Austin, TX",2019,43.90,150000,Computer and mathematical occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+45,"Austin, TX",2019,44.86,170000,Architecture and engineering occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+46,"Austin, TX",2019,33.42,190000,"Life, physical, and social science occupations",All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+47,"Austin, TX",2019,24.40,210000,Community and social service occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+48,"Austin, TX",2019,50.96,230000,Legal occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+49,"Austin, TX",2019,28.25,250000,Educational instruction and library occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+50,"Austin, TX",2019,31.00,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+51,"Austin, TX",2019,40.15,290000,Healthcare practitioners and technical occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+52,"Austin, TX",2019,16.77,310000,Healthcare support occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+53,"Austin, TX",2019,25.57,330000,Protective service occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+54,"Austin, TX",2019,15.18,350000,Food preparation and serving related occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+55,"Austin, TX",2019,14.22,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+56,"Austin, TX",2019,10.80,390000,Personal care and service occupations,Level 02,All workers,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+57,"Austin, TX",2019,27.16,410000,Sales and related occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+58,"Austin, TX",2019,20.04,430000,Office and administrative support occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+59,"Austin, TX",2019,21.58,470000,Construction and extraction occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+60,"Austin, TX",2019,22.88,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+61,"Austin, TX",2019,18.62,510000,Production occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+62,"Austin, TX",2019,17.64,530000,Transportation and material moving occupations,All levels,Full-time,16,Austin,TX,Texas,48,30.27,-97.74,1273954
+63,"Baltimore, MD",2019,61.60,110000,Management occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+64,"Baltimore, MD",2019,37.81,130000,Business and financial operations occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+65,"Baltimore, MD",2019,49.68,150000,Computer and mathematical occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+66,"Baltimore, MD",2019,45.27,170000,Architecture and engineering occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+67,"Baltimore, MD",2019,36.99,190000,"Life, physical, and social science occupations",Not able to be leveled,All workers,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+68,"Baltimore, MD",2019,26.63,210000,Community and social service occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+69,"Baltimore, MD",2019,65.85,230000,Legal occupations,Not able to be leveled,All workers,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+70,"Baltimore, MD",2019,18.99,250000,Educational instruction and library occupations,Level 04,All workers,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+71,"Baltimore, MD",2019,29.25,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+72,"Baltimore, MD",2019,40.96,290000,Healthcare practitioners and technical occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+73,"Baltimore, MD",2019,16.91,310000,Healthcare support occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+74,"Baltimore, MD",2019,27.30,330000,Protective service occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+75,"Baltimore, MD",2019,14.26,350000,Food preparation and serving related occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+76,"Baltimore, MD",2019,15.86,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+77,"Baltimore, MD",2019,17.41,390000,Personal care and service occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+78,"Baltimore, MD",2019,29.26,410000,Sales and related occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+79,"Baltimore, MD",2019,22.11,430000,Office and administrative support occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+80,"Baltimore, MD",2019,24.70,470000,Construction and extraction occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+81,"Baltimore, MD",2019,25.20,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+82,"Baltimore, MD",2019,21.29,510000,Production occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+83,"Baltimore, MD",2019,21.47,530000,Transportation and material moving occupations,All levels,Full-time,23,Baltimore,MD,Maryland,24,39.29,-76.61,593490
+84,"Boise, ID",2019,45.34,110000,Management occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+85,"Boise, ID",2019,20.45,130000,Business and financial operations occupations,Level 06,All workers,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+86,"Boise, ID",2019,37.43,150000,Computer and mathematical occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+87,"Boise, ID",2019,41.81,170000,Architecture and engineering occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+88,"Boise, ID",2019,21.49,190000,"Life, physical, and social science occupations",Level 06,All workers,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+89,"Boise, ID",2019,23.03,210000,Community and social service occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+90,"Boise, ID",2019,42.87,230000,Legal occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+91,"Boise, ID",2019,10.55,250000,Educational instruction and library occupations,Level 03,All workers,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+92,"Boise, ID",2019,27.10,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+93,"Boise, ID",2019,40.01,290000,Healthcare practitioners and technical occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+94,"Boise, ID",2019,15.17,310000,Healthcare support occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+95,"Boise, ID",2019,23.08,330000,Protective service occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+96,"Boise, ID",2019,12.27,350000,Food preparation and serving related occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+97,"Boise, ID",2019,14.54,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+98,"Boise, ID",2019,17.51,390000,Personal care and service occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+99,"Boise, ID",2019,24.18,410000,Sales and related occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+100,"Boise, ID",2019,18.83,430000,Office and administrative support occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+101,"Boise, ID",2019,20.65,470000,Construction and extraction occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+102,"Boise, ID",2019,22.14,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+103,"Boise, ID",2019,18.26,510000,Production occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+104,"Boise, ID",2019,18.81,530000,Transportation and material moving occupations,All levels,Full-time,49,Boise,ID,Idaho,16,43.62,-116.2,481587
+105,"Charlotte, NC",2019,63.28,110000,Management occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+106,"Charlotte, NC",2019,39.49,130000,Business and financial operations occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+107,"Charlotte, NC",2019,44.80,150000,Computer and mathematical occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+108,"Charlotte, NC",2019,39.18,170000,Architecture and engineering occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+109,"Charlotte, NC",2019,33.88,190000,"Life, physical, and social science occupations",All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+110,"Charlotte, NC",2019,22.87,210000,Community and social service occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+111,"Charlotte, NC",2019,19.79,230000,Legal occupations,Level 06,All workers,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+112,"Charlotte, NC",2019,23.48,250000,Educational instruction and library occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+113,"Charlotte, NC",2019,31.65,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+114,"Charlotte, NC",2019,14.41,290000,Healthcare practitioners and technical occupations,Level 03,All workers,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+115,"Charlotte, NC",2019,15.51,310000,Healthcare support occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+116,"Charlotte, NC",2019,21.26,330000,Protective service occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+117,"Charlotte, NC",2019,13.81,350000,Food preparation and serving related occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+118,"Charlotte, NC",2019,13.71,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+119,"Charlotte, NC",2019,16.30,390000,Personal care and service occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+120,"Charlotte, NC",2019,29.63,410000,Sales and related occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+121,"Charlotte, NC",2019,19.97,430000,Office and administrative support occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+122,"Charlotte, NC",2019,21.15,470000,Construction and extraction occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+123,"Charlotte, NC",2019,24.64,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+124,"Charlotte, NC",2019,18.68,510000,Production occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+125,"Charlotte, NC",2019,19.00,530000,Transportation and material moving occupations,All levels,Full-time,17,Charlotte,NC,North Carolina,37,35.23,-80.84,1110356
+126,"Chicago, IL",2019,61.09,110000,Management occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+127,"Chicago, IL",2019,38.58,130000,Business and financial operations occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+128,"Chicago, IL",2019,44.24,150000,Computer and mathematical occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+129,"Chicago, IL",2019,41.58,170000,Architecture and engineering occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+130,"Chicago, IL",2019,36.51,190000,"Life, physical, and social science occupations",All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+131,"Chicago, IL",2019,25.49,210000,Community and social service occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+132,"Chicago, IL",2019,86.08,230000,Legal occupations,Not able to be leveled,All workers,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+133,"Chicago, IL",2019,14.48,250000,Educational instruction and library occupations,Level 04,All workers,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+134,"Chicago, IL",2019,29.97,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+135,"Chicago, IL",2019,41.78,290000,Healthcare practitioners and technical occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+136,"Chicago, IL",2019,16.39,310000,Healthcare support occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+137,"Chicago, IL",2019,29.72,330000,Protective service occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+138,"Chicago, IL",2019,15.15,350000,Food preparation and serving related occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+139,"Chicago, IL",2019,16.50,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+140,"Chicago, IL",2019,16.88,390000,Personal care and service occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+141,"Chicago, IL",2019,29.11,410000,Sales and related occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+142,"Chicago, IL",2019,22.17,430000,Office and administrative support occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+143,"Chicago, IL",2019,35.13,470000,Construction and extraction occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+144,"Chicago, IL",2019,25.95,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+145,"Chicago, IL",2019,19.94,510000,Production occupations,All levels,Full-time,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+146,"Chicago, IL",2019,13.76,530000,Transportation and material moving occupations,Level 01,All workers,3,Chicago,IL,Illinois,17,41.88,-87.63,5150233
+147,"Cleveland, OH",2019,57.53,110000,Management occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+148,"Cleveland, OH",2019,36.68,130000,Business and financial operations occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+149,"Cleveland, OH",2019,38.63,150000,Computer and mathematical occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+150,"Cleveland, OH",2019,38.68,170000,Architecture and engineering occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+151,"Cleveland, OH",2019,32.32,190000,"Life, physical, and social science occupations",All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+152,"Cleveland, OH",2019,23.49,210000,Community and social service occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+153,"Cleveland, OH",2019,21.44,230000,Legal occupations,Level 06,All workers,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+154,"Cleveland, OH",2019,13.53,250000,Educational instruction and library occupations,Level 03,All workers,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+155,"Cleveland, OH",2019,26.60,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+156,"Cleveland, OH",2019,17.11,290000,Healthcare practitioners and technical occupations,Level 04,All workers,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+157,"Cleveland, OH",2019,14.66,310000,Healthcare support occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+158,"Cleveland, OH",2019,24.40,330000,Protective service occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+159,"Cleveland, OH",2019,13.67,350000,Food preparation and serving related occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+160,"Cleveland, OH",2019,15.75,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+161,"Cleveland, OH",2019,16.23,390000,Personal care and service occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+162,"Cleveland, OH",2019,27.68,410000,Sales and related occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+163,"Cleveland, OH",2019,20.52,430000,Office and administrative support occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+164,"Cleveland, OH",2019,26.86,470000,Construction and extraction occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+165,"Cleveland, OH",2019,23.99,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+166,"Cleveland, OH",2019,19.91,510000,Production occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+167,"Cleveland, OH",2019,19.59,530000,Transportation and material moving occupations,All levels,Full-time,46,Cleveland,OH,Ohio,39,41.5,-81.69,1235072
+168,"Colorado Springs, CO",2019,57.46,110000,Management occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+169,"Colorado Springs, CO",2019,22.08,130000,Business and financial operations occupations,Level 06,All workers,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+170,"Colorado Springs, CO",2019,46.67,150000,Computer and mathematical occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+171,"Colorado Springs, CO",2019,45.76,170000,Architecture and engineering occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+172,"Colorado Springs, CO",2019,33.70,190000,"Life, physical, and social science occupations",All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+173,"Colorado Springs, CO",2019,24.75,210000,Community and social service occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+174,"Colorado Springs, CO",2019,44.71,230000,Legal occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+175,"Colorado Springs, CO",2019,25.04,250000,Educational instruction and library occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+176,"Colorado Springs, CO",2019,27.37,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+177,"Colorado Springs, CO",2019,38.84,290000,Healthcare practitioners and technical occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+178,"Colorado Springs, CO",2019,16.82,310000,Healthcare support occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+179,"Colorado Springs, CO",2019,25.45,330000,Protective service occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+180,"Colorado Springs, CO",2019,14.69,350000,Food preparation and serving related occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+181,"Colorado Springs, CO",2019,15.08,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+182,"Colorado Springs, CO",2019,16.35,390000,Personal care and service occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+183,"Colorado Springs, CO",2019,25.90,410000,Sales and related occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+184,"Colorado Springs, CO",2019,19.09,430000,Office and administrative support occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+185,"Colorado Springs, CO",2019,22.66,470000,Construction and extraction occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+186,"Colorado Springs, CO",2019,23.95,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+187,"Colorado Springs, CO",2019,19.90,510000,Production occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+188,"Colorado Springs, CO",2019,18.56,530000,Transportation and material moving occupations,All levels,Full-time,52,Colorado Springs,CO,Colorado,8,38.83,-104.82,720403
+189,"Fort Worth, TX",2019,62.31,110000,Management occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+190,"Fort Worth, TX",2019,38.68,130000,Business and financial operations occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+191,"Fort Worth, TX",2019,45.60,150000,Computer and mathematical occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+192,"Fort Worth, TX",2019,46.41,170000,Architecture and engineering occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+193,"Fort Worth, TX",Not Found,Not Found,190000,"Life, physical, and social science occupations",Not Found,Not Found,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+194,"Fort Worth, TX",2019,26.28,210000,Community and social service occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+195,"Fort Worth, TX",2019,26.05,230000,Legal occupations,Level 07,All workers,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+196,"Fort Worth, TX",2019,27.71,250000,Educational instruction and library occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+197,"Fort Worth, TX",2019,28.40,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+198,"Fort Worth, TX",2019,40.32,290000,Healthcare practitioners and technical occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+199,"Fort Worth, TX",2019,15.95,310000,Healthcare support occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+200,"Fort Worth, TX",2019,24.69,330000,Protective service occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+201,"Fort Worth, TX",2019,12.70,350000,Food preparation and serving related occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+202,"Fort Worth, TX",2019,15.24,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+203,"Fort Worth, TX",2019,15.45,390000,Personal care and service occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+204,"Fort Worth, TX",2019,26.93,410000,Sales and related occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+205,"Fort Worth, TX",2019,19.97,430000,Office and administrative support occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+206,"Fort Worth, TX",2019,21.62,470000,Construction and extraction occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+207,"Fort Worth, TX",2019,24.65,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+208,"Fort Worth, TX",2019,18.69,510000,Production occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+209,"Fort Worth, TX",2019,21.91,530000,Transportation and material moving occupations,All levels,Full-time,10,Fort Worth,TX,Texas,48,32.76,-97.33,2102515
+210,"Denver, CO",2019,69.85,110000,Management occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+211,"Denver, CO",2019,40.53,130000,Business and financial operations occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+212,"Denver, CO",2019,48.12,150000,Computer and mathematical occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+213,"Denver, CO",2019,45.74,170000,Architecture and engineering occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+214,"Denver, CO",2019,38.97,190000,"Life, physical, and social science occupations",All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+215,"Denver, CO",2019,26.20,210000,Community and social service occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+216,"Denver, CO",2019,61.37,230000,Legal occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+217,"Denver, CO",2019,30.96,250000,Educational instruction and library occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+218,"Denver, CO",2019,31.43,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+219,"Denver, CO",2019,41.63,290000,Healthcare practitioners and technical occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+220,"Denver, CO",2019,17.94,310000,Healthcare support occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+221,"Denver, CO",2019,29.32,330000,Protective service occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+222,"Denver, CO",2019,15.47,350000,Food preparation and serving related occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+223,"Denver, CO",2019,15.92,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+224,"Denver, CO",2019,17.30,390000,Personal care and service occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+225,"Denver, CO",2019,32.18,410000,Sales and related occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+226,"Denver, CO",2019,22.19,430000,Office and administrative support occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+227,"Denver, CO",2019,25.90,470000,Construction and extraction occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+228,"Denver, CO",2019,26.43,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+229,"Denver, CO",2019,20.91,510000,Production occupations,All levels,Full-time,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+230,"Denver, CO",2019,14.16,530000,Transportation and material moving occupations,Level 01,All workers,28,Denver,CO,Colorado,8,39.74,-104.99,727211
+231,"Detroit, MI",2019,60.73,110000,Management occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+232,"Detroit, MI",2019,37.29,130000,Business and financial operations occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+233,"Detroit, MI",2019,41.29,150000,Computer and mathematical occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+234,"Detroit, MI",2019,43.42,170000,Architecture and engineering occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+235,"Detroit, MI",Not Found,Not Found,190000,"Life, physical, and social science occupations",Not Found,Not Found,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+236,"Detroit, MI",2019,24.32,210000,Community and social service occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+237,"Detroit, MI",Not Found,Not Found,230000,Legal occupations,Not Found,Not Found,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+238,"Detroit, MI",2019,34.07,250000,Educational instruction and library occupations,Level 09,All workers,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+239,"Detroit, MI",2019,27.78,270000,"Arts, design, entertainment, sports, and media occupations",Not able to be leveled,All workers,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+240,"Detroit, MI",2019,41.34,290000,Healthcare practitioners and technical occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+241,"Detroit, MI",2019,15.26,310000,Healthcare support occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+242,"Detroit, MI",2019,23.68,330000,Protective service occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+243,"Detroit, MI",2019,14.48,350000,Food preparation and serving related occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+244,"Detroit, MI",2019,15.40,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+245,"Detroit, MI",2019,11.10,390000,Personal care and service occupations,Level 01,All workers,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+246,"Detroit, MI",2019,28.51,410000,Sales and related occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+247,"Detroit, MI",2019,20.51,430000,Office and administrative support occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+248,"Detroit, MI",2019,28.05,470000,Construction and extraction occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+249,"Detroit, MI",2019,24.65,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+250,"Detroit, MI",2019,21.51,510000,Production occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+251,"Detroit, MI",2019,22.05,530000,Transportation and material moving occupations,All levels,Full-time,13,Detroit,MI,Michigan,26,42.33,-83.05,1749343
+252,"El Paso, TX",2019,47.81,110000,Management occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+253,"El Paso, TX",2019,18.09,130000,Business and financial operations occupations,Level 06,All workers,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+254,"El Paso, TX",2019,19.99,150000,Computer and mathematical occupations,Level 05,All workers,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+255,"El Paso, TX",2019,35.83,170000,Architecture and engineering occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+256,"El Paso, TX",2019,30.01,190000,"Life, physical, and social science occupations",Not able to be leveled,All workers,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+257,"El Paso, TX",2019,19.73,210000,Community and social service occupations,Level 07,All workers,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+258,"El Paso, TX",2019,51.79,230000,Legal occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+259,"El Paso, TX",2019,32.91,250000,Educational instruction and library occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+260,"El Paso, TX",2019,24.27,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+261,"El Paso, TX",2019,34.52,290000,Healthcare practitioners and technical occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+262,"El Paso, TX",2019,12.85,310000,Healthcare support occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+263,"El Paso, TX",2019,22.10,330000,Protective service occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+264,"El Paso, TX",2019,11.97,350000,Food preparation and serving related occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+265,"El Paso, TX",2019,11.37,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+266,"El Paso, TX",2019,13.25,390000,Personal care and service occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+267,"El Paso, TX",2019,19.35,410000,Sales and related occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+268,"El Paso, TX",2019,15.68,430000,Office and administrative support occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+269,"El Paso, TX",2019,17.44,470000,Construction and extraction occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+270,"El Paso, TX",2019,19.80,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+271,"El Paso, TX",2019,15.12,510000,Production occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+272,"El Paso, TX",2019,16.99,530000,Transportation and material moving occupations,All levels,Full-time,22,El Paso,TX,Texas,48,31.78,-106.44,839238
+273,"Fresno, CA",2019,52.17,110000,Management occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+274,"Fresno, CA",2019,32.98,130000,Business and financial operations occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+275,"Fresno, CA",2019,20.68,150000,Computer and mathematical occupations,Level 06,All workers,34,Fresno,CA,California,6,36.75,-119.77,999101
+276,"Fresno, CA",2019,43.67,170000,Architecture and engineering occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+277,"Fresno, CA",2019,39.99,190000,"Life, physical, and social science occupations",Level 09,All workers,34,Fresno,CA,California,6,36.75,-119.77,999101
+278,"Fresno, CA",2019,26.10,210000,Community and social service occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+279,"Fresno, CA",2019,45.17,230000,Legal occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+280,"Fresno, CA",2019,33.76,250000,Educational instruction and library occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+281,"Fresno, CA",2019,27.24,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+282,"Fresno, CA",2019,26.44,290000,Healthcare practitioners and technical occupations,Level 05,All workers,34,Fresno,CA,California,6,36.75,-119.77,999101
+283,"Fresno, CA",2019,14.16,310000,Healthcare support occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+284,"Fresno, CA",2019,16.45,330000,Protective service occupations,Level 02,All workers,34,Fresno,CA,California,6,36.75,-119.77,999101
+285,"Fresno, CA",2019,17.05,350000,Food preparation and serving related occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+286,"Fresno, CA",2019,16.30,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+287,"Fresno, CA",2019,17.49,390000,Personal care and service occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+288,"Fresno, CA",2019,23.31,410000,Sales and related occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+289,"Fresno, CA",2019,20.36,430000,Office and administrative support occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+290,"Fresno, CA",2019,17.08,470000,Construction and extraction occupations,Level 02,All workers,34,Fresno,CA,California,6,36.75,-119.77,999101
+291,"Fresno, CA",2019,25.26,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+292,"Fresno, CA",2019,18.18,510000,Production occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+293,"Fresno, CA",2019,19.12,530000,Transportation and material moving occupations,All levels,Full-time,34,Fresno,CA,California,6,36.75,-119.77,999101
+294,"Houston, TX",2019,61.53,110000,Management occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+295,"Houston, TX",2019,40.71,130000,Business and financial operations occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+296,"Houston, TX",2019,46.88,150000,Computer and mathematical occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+297,"Houston, TX",2019,52.74,170000,Architecture and engineering occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+298,"Houston, TX",2019,44.73,190000,"Life, physical, and social science occupations",Not able to be leveled,All workers,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+299,"Houston, TX",2019,25.81,210000,Community and social service occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+300,"Houston, TX",Not Found,Not Found,230000,Legal occupations,Not Found,Not Found,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+301,"Houston, TX",2019,29.83,250000,Educational instruction and library occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+302,"Houston, TX",2019,28.19,270000,"Arts, design, entertainment, sports, and media occupations",Not able to be leveled,All workers,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+303,"Houston, TX",2019,40.51,290000,Healthcare practitioners and technical occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+304,"Houston, TX",2019,14.66,310000,Healthcare support occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+305,"Houston, TX",2019,22.10,330000,Protective service occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+306,"Houston, TX",2019,12.86,350000,Food preparation and serving related occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+307,"Houston, TX",2019,12.96,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+308,"Houston, TX",2019,15.28,390000,Personal care and service occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+309,"Houston, TX",2019,26.62,410000,Sales and related occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+310,"Houston, TX",2019,20.21,430000,Office and administrative support occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+311,"Houston, TX",2019,23.51,470000,Construction and extraction occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+312,"Houston, TX",2019,24.63,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+313,"Houston, TX",2019,22.11,510000,Production occupations,All levels,Full-time,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+314,"Houston, TX",2019,14.26,530000,Transportation and material moving occupations,Level 02,All workers,4,Houston,TX,Texas,48,29.76,-95.37,4713325
+315,"Indianapolis, IN",2019,53.06,110000,Management occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+316,"Indianapolis, IN",2019,34.16,130000,Business and financial operations occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+317,"Indianapolis, IN",2019,39.88,150000,Computer and mathematical occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+318,"Indianapolis, IN",2019,38.40,170000,Architecture and engineering occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+319,"Indianapolis, IN",2019,38.22,190000,"Life, physical, and social science occupations",All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+320,"Indianapolis, IN",2019,23.32,210000,Community and social service occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+321,"Indianapolis, IN",2019,20.43,230000,Legal occupations,Level 06,All workers,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+322,"Indianapolis, IN",2019,28.72,250000,Educational instruction and library occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+323,"Indianapolis, IN",2019,28.42,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+324,"Indianapolis, IN",2019,42.02,290000,Healthcare practitioners and technical occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+325,"Indianapolis, IN",2019,15.64,310000,Healthcare support occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+326,"Indianapolis, IN",2019,22.94,330000,Protective service occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+327,"Indianapolis, IN",2019,14.10,350000,Food preparation and serving related occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+328,"Indianapolis, IN",2019,15.16,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+329,"Indianapolis, IN",2019,16.46,390000,Personal care and service occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+330,"Indianapolis, IN",2019,29.84,410000,Sales and related occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+331,"Indianapolis, IN",2019,20.36,430000,Office and administrative support occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+332,"Indianapolis, IN",2019,24.70,470000,Construction and extraction occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+333,"Indianapolis, IN",2019,23.37,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+334,"Indianapolis, IN",2019,19.06,510000,Production occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+335,"Indianapolis, IN",2019,18.10,530000,Transportation and material moving occupations,All levels,Full-time,18,Indianapolis,IN,Indiana,18,39.77,-86.16,964582
+336,"Kansas City, MO",2019,56.97,110000,Management occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+337,"Kansas City, MO",2019,20.76,130000,Business and financial operations occupations,Level 05,All workers,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+338,"Kansas City, MO",2019,39.52,150000,Computer and mathematical occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+339,"Kansas City, MO",2019,37.76,170000,Architecture and engineering occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+340,"Kansas City, MO",2019,33.92,190000,"Life, physical, and social science occupations",All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+341,"Kansas City, MO",2019,21.97,210000,Community and social service occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+342,"Kansas City, MO",2019,43.75,230000,Legal occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+343,"Kansas City, MO",2019,11.33,250000,Educational instruction and library occupations,Level 03,All workers,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+344,"Kansas City, MO",2019,27.69,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+345,"Kansas City, MO",2019,38.73,290000,Healthcare practitioners and technical occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+346,"Kansas City, MO",2019,15.08,310000,Healthcare support occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+347,"Kansas City, MO",2019,24.81,330000,Protective service occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+348,"Kansas City, MO",2019,15.16,350000,Food preparation and serving related occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+349,"Kansas City, MO",2019,16.56,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+350,"Kansas City, MO",2019,16.68,390000,Personal care and service occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+351,"Kansas City, MO",2019,27.63,410000,Sales and related occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+352,"Kansas City, MO",2019,20.14,430000,Office and administrative support occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+353,"Kansas City, MO",2019,26.76,470000,Construction and extraction occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+354,"Kansas City, MO",2019,24.08,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+355,"Kansas City, MO",2019,20.90,510000,Production occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+356,"Kansas City, MO",2019,18.73,530000,Transportation and material moving occupations,All levels,Full-time,37,Kansas City,MO,Missouri,29,39.1,-94.58,703011
+357,"Las Vegas, NV",2019,55.35,110000,Management occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+358,"Las Vegas, NV",2019,33.19,130000,Business and financial operations occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+359,"Las Vegas, NV",2019,38.93,150000,Computer and mathematical occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+360,"Las Vegas, NV",2019,38.63,170000,Architecture and engineering occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+361,"Las Vegas, NV",2019,33.14,190000,"Life, physical, and social science occupations",All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+362,"Las Vegas, NV",2019,27.00,210000,Community and social service occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+363,"Las Vegas, NV",2019,50.54,230000,Legal occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+364,"Las Vegas, NV",2019,13.91,250000,Educational instruction and library occupations,Level 03,All workers,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+365,"Las Vegas, NV",2019,29.78,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+366,"Las Vegas, NV",2019,44.37,290000,Healthcare practitioners and technical occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+367,"Las Vegas, NV",2019,17.02,310000,Healthcare support occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+368,"Las Vegas, NV",2019,24.81,330000,Protective service occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+369,"Las Vegas, NV",2019,15.18,350000,Food preparation and serving related occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+370,"Las Vegas, NV",2019,16.72,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+371,"Las Vegas, NV",2019,14.68,390000,Personal care and service occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+372,"Las Vegas, NV",2019,22.75,410000,Sales and related occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+373,"Las Vegas, NV",2019,18.76,430000,Office and administrative support occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+374,"Las Vegas, NV",2019,25.26,470000,Construction and extraction occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+375,"Las Vegas, NV",2019,25.47,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+376,"Las Vegas, NV",2019,18.75,510000,Production occupations,All levels,Full-time,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+377,"Las Vegas, NV",2019,12.19,530000,Transportation and material moving occupations,Level 01,All workers,8,Las Vegas,NV,Nevada,32,36.17,-115.14,2266715
+378,"Los Angeles, CA",2019,65.30,110000,Management occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+379,"Los Angeles, CA",2019,39.63,130000,Business and financial operations occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+380,"Los Angeles, CA",2019,46.62,150000,Computer and mathematical occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+381,"Los Angeles, CA",2019,48.33,170000,Architecture and engineering occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+382,"Los Angeles, CA",2019,43.17,190000,"Life, physical, and social science occupations",All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+383,"Los Angeles, CA",2019,29.35,210000,Community and social service occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+384,"Los Angeles, CA",2019,66.66,230000,Legal occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+385,"Los Angeles, CA",2019,38.22,250000,Educational instruction and library occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+386,"Los Angeles, CA",2019,39.53,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+387,"Los Angeles, CA",2019,47.07,290000,Healthcare practitioners and technical occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+388,"Los Angeles, CA",2019,15.81,310000,Healthcare support occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+389,"Los Angeles, CA",2019,30.72,330000,Protective service occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+390,"Los Angeles, CA",2019,16.40,350000,Food preparation and serving related occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+391,"Los Angeles, CA",2019,17.99,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+392,"Los Angeles, CA",2019,17.66,390000,Personal care and service occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+393,"Los Angeles, CA",2019,27.44,410000,Sales and related occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+394,"Los Angeles, CA",2019,22.75,430000,Office and administrative support occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+395,"Los Angeles, CA",2019,29.68,470000,Construction and extraction occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+396,"Los Angeles, CA",2019,27.69,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+397,"Los Angeles, CA",2019,19.49,510000,Production occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+398,"Los Angeles, CA",2019,20.55,530000,Transportation and material moving occupations,All levels,Full-time,1,Los Angeles,CA,California,6,34.05,-118.24,10039107
+399,"Louisville, KY",2019,49.72,110000,Management occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+400,"Louisville, KY",2019,33.14,130000,Business and financial operations occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+401,"Louisville, KY",2019,37.18,150000,Computer and mathematical occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+402,"Louisville, KY",2019,36.88,170000,Architecture and engineering occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+403,"Louisville, KY",2019,34.93,190000,"Life, physical, and social science occupations",Level 09,All workers,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+404,"Louisville, KY",2019,21.89,210000,Community and social service occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+405,"Louisville, KY",2019,24.02,230000,Legal occupations,Level 07,All workers,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+406,"Louisville, KY",2019,25.60,250000,Educational instruction and library occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+407,"Louisville, KY",2019,24.95,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+408,"Louisville, KY",2019,34.69,290000,Healthcare practitioners and technical occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+409,"Louisville, KY",2019,15.55,310000,Healthcare support occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+410,"Louisville, KY",2019,18.86,330000,Protective service occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+411,"Louisville, KY",2019,13.19,350000,Food preparation and serving related occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+412,"Louisville, KY",2019,14.75,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+413,"Louisville, KY",2019,15.80,390000,Personal care and service occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+414,"Louisville, KY",2019,24.25,410000,Sales and related occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+415,"Louisville, KY",2019,18.58,430000,Office and administrative support occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+416,"Louisville, KY",2019,24.45,470000,Construction and extraction occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+417,"Louisville, KY",2019,23.59,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+418,"Louisville, KY",2019,19.77,510000,Production occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+419,"Louisville, KY",2019,21.10,530000,Transportation and material moving occupations,All levels,Full-time,27,Louisville,KY,Kentucky,21,38.25,-85.76,766757
+420,"Memphis, TN",2019,51.40,110000,Management occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+421,"Memphis, TN",2019,31.66,130000,Business and financial operations occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+422,"Memphis, TN",2019,35.19,150000,Computer and mathematical occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+423,"Memphis, TN",2019,35.02,170000,Architecture and engineering occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+424,"Memphis, TN",2019,31.16,190000,"Life, physical, and social science occupations",Not able to be leveled,All workers,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+425,"Memphis, TN",2019,23.17,210000,Community and social service occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+426,"Memphis, TN",2019,47.24,230000,Legal occupations,Not able to be leveled,All workers,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+427,"Memphis, TN",2019,13.98,250000,Educational instruction and library occupations,Level 04,All workers,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+428,"Memphis, TN",2019,26.44,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+429,"Memphis, TN",2019,35.40,290000,Healthcare practitioners and technical occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+430,"Memphis, TN",2019,14.42,310000,Healthcare support occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+431,"Memphis, TN",2019,19.46,330000,Protective service occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+432,"Memphis, TN",2019,12.45,350000,Food preparation and serving related occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+433,"Memphis, TN",2019,13.99,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+434,"Memphis, TN",2019,14.52,390000,Personal care and service occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+435,"Memphis, TN",2019,24.57,410000,Sales and related occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+436,"Memphis, TN",2019,18.96,430000,Office and administrative support occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+437,"Memphis, TN",2019,20.88,470000,Construction and extraction occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+438,"Memphis, TN",2019,23.11,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+439,"Memphis, TN",2019,18.37,510000,Production occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+440,"Memphis, TN",2019,17.95,530000,Transportation and material moving occupations,All levels,Full-time,20,Memphis,TN,Tennessee,47,35.15,-90.05,937166
+441,"Miami, FL",2019,56.13,110000,Management occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+442,"Miami, FL",2019,34.89,130000,Business and financial operations occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+443,"Miami, FL",2019,40.34,150000,Computer and mathematical occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+444,"Miami, FL",2019,37.66,170000,Architecture and engineering occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+445,"Miami, FL",2019,34.49,190000,"Life, physical, and social science occupations",All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+446,"Miami, FL",2019,24.15,210000,Community and social service occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+447,"Miami, FL",2019,74.22,230000,Legal occupations,Not able to be leveled,All workers,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+448,"Miami, FL",2019,28.91,250000,Educational instruction and library occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+449,"Miami, FL",2019,28.79,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+450,"Miami, FL",2019,38.84,290000,Healthcare practitioners and technical occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+451,"Miami, FL",2019,16.37,310000,Healthcare support occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+452,"Miami, FL",2019,23.65,330000,Protective service occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+453,"Miami, FL",2019,14.98,350000,Food preparation and serving related occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+454,"Miami, FL",2019,13.93,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+455,"Miami, FL",2019,15.94,390000,Personal care and service occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+456,"Miami, FL",2019,25.15,410000,Sales and related occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+457,"Miami, FL",2019,19.79,430000,Office and administrative support occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+458,"Miami, FL",2019,21.27,470000,Construction and extraction occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+459,"Miami, FL",2019,22.52,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+460,"Miami, FL",2019,17.88,510000,Production occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+461,"Miami, FL",2019,20.88,530000,Transportation and material moving occupations,All levels,Full-time,38,Miami,FL,Florida,12,25.76,-80.19,2716940
+462,"Milwaukee, WI",2019,61.22,110000,Management occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+463,"Milwaukee, WI",2019,35.20,130000,Business and financial operations occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+464,"Milwaukee, WI",2019,40.02,150000,Computer and mathematical occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+465,"Milwaukee, WI",2019,37.20,170000,Architecture and engineering occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+466,"Milwaukee, WI",2019,19.61,190000,"Life, physical, and social science occupations",Level 05,All workers,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+467,"Milwaukee, WI",2019,23.14,210000,Community and social service occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+468,"Milwaukee, WI",2019,53.59,230000,Legal occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+469,"Milwaukee, WI",2019,15.29,250000,Educational instruction and library occupations,Level 04,All workers,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+470,"Milwaukee, WI",2019,26.08,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+471,"Milwaukee, WI",2019,16.26,290000,Healthcare practitioners and technical occupations,Level 04,All workers,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+472,"Milwaukee, WI",2019,14.03,310000,Healthcare support occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+473,"Milwaukee, WI",2019,27.11,330000,Protective service occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+474,"Milwaukee, WI",2019,13.57,350000,Food preparation and serving related occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+475,"Milwaukee, WI",2019,15.76,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+476,"Milwaukee, WI",2019,16.90,390000,Personal care and service occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+477,"Milwaukee, WI",2019,29.77,410000,Sales and related occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+478,"Milwaukee, WI",2019,20.98,430000,Office and administrative support occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+479,"Milwaukee, WI",2019,29.67,470000,Construction and extraction occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+480,"Milwaukee, WI",2019,25.04,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+481,"Milwaukee, WI",2019,19.91,510000,Production occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+482,"Milwaukee, WI",2019,19.22,530000,Transportation and material moving occupations,All levels,Full-time,31,Milwaukee,WI,Wisconsin,55,43.04,-87.91,945726
+483,"Minneapolis, MN",2019,62.75,110000,Management occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+484,"Minneapolis, MN",2019,37.97,130000,Business and financial operations occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+485,"Minneapolis, MN",2019,45.12,150000,Computer and mathematical occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+486,"Minneapolis, MN",2019,41.97,170000,Architecture and engineering occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+487,"Minneapolis, MN",2019,38.70,190000,"Life, physical, and social science occupations",All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+488,"Minneapolis, MN",2019,25.23,210000,Community and social service occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+489,"Minneapolis, MN",2019,49.46,230000,Legal occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+490,"Minneapolis, MN",2019,14.92,250000,Educational instruction and library occupations,Level 04,All workers,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+491,"Minneapolis, MN",2019,29.78,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+492,"Minneapolis, MN",2019,46.27,290000,Healthcare practitioners and technical occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+493,"Minneapolis, MN",2019,13.66,310000,Healthcare support occupations,Level 03,All workers,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+494,"Minneapolis, MN",2019,32.97,330000,Protective service occupations,All levels,Union,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+495,"Minneapolis, MN",2019,16.89,350000,Food preparation and serving related occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+496,"Minneapolis, MN",2019,17.88,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+497,"Minneapolis, MN",2019,16.93,390000,Personal care and service occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+498,"Minneapolis, MN",2019,30.57,410000,Sales and related occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+499,"Minneapolis, MN",2019,22.54,430000,Office and administrative support occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+500,"Minneapolis, MN",2019,31.47,470000,Construction and extraction occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+501,"Minneapolis, MN",2019,27.16,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+502,"Minneapolis, MN",2019,21.18,510000,Production occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+503,"Minneapolis, MN",2019,20.74,530000,Transportation and material moving occupations,All levels,Full-time,42,Minneapolis,MN,Minnesota,27,44.98,-93.27,1265843
+504,"Nashville, TN",2019,53.65,110000,Management occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+505,"Nashville, TN",2019,32.25,130000,Business and financial operations occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+506,"Nashville, TN",2019,38.06,150000,Computer and mathematical occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+507,"Nashville, TN",2019,35.95,170000,Architecture and engineering occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+508,"Nashville, TN",2019,30.73,190000,"Life, physical, and social science occupations",All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+509,"Nashville, TN",2019,22.45,210000,Community and social service occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+510,"Nashville, TN",2019,50.21,230000,Legal occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+511,"Nashville, TN",2019,27.22,250000,Educational instruction and library occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+512,"Nashville, TN",2019,31.44,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+513,"Nashville, TN",2019,36.49,290000,Healthcare practitioners and technical occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+514,"Nashville, TN",2019,15.49,310000,Healthcare support occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+515,"Nashville, TN",2019,19.37,330000,Protective service occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+516,"Nashville, TN",2019,13.38,350000,Food preparation and serving related occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+517,"Nashville, TN",2019,14.79,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+518,"Nashville, TN",2019,15.57,390000,Personal care and service occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+519,"Nashville, TN",2019,25.06,410000,Sales and related occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+520,"Nashville, TN",2019,19.92,430000,Office and administrative support occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+521,"Nashville, TN",2019,21.66,470000,Construction and extraction occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+522,"Nashville, TN",2019,22.89,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+523,"Nashville, TN",2019,19.24,510000,Production occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+524,"Nashville, TN",2019,17.85,530000,Transportation and material moving occupations,All levels,Full-time,30,Nashville,TN,Tennessee,47,36.16,-86.78,694144
+525,"New Orleans, LA",2019,52.64,110000,Management occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+526,"New Orleans, LA",2019,32.63,130000,Business and financial operations occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+527,"New Orleans, LA",2019,21.05,150000,Computer and mathematical occupations,Level 05,All workers,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+528,"New Orleans, LA",2019,44.73,170000,Architecture and engineering occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+529,"New Orleans, LA",2019,33.50,190000,"Life, physical, and social science occupations",All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+530,"New Orleans, LA",2019,23.15,210000,Community and social service occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+531,"New Orleans, LA",2019,46.39,230000,Legal occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+532,"New Orleans, LA",2019,11.12,250000,Educational instruction and library occupations,Level 02,All workers,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+533,"New Orleans, LA",2019,27.96,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+534,"New Orleans, LA",2019,35.26,290000,Healthcare practitioners and technical occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+535,"New Orleans, LA",2019,13.87,310000,Healthcare support occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+536,"New Orleans, LA",2019,19.02,330000,Protective service occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+537,"New Orleans, LA",2019,13.16,350000,Food preparation and serving related occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+538,"New Orleans, LA",2019,12.45,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+539,"New Orleans, LA",2019,14.55,390000,Personal care and service occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+540,"New Orleans, LA",2019,22.89,410000,Sales and related occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+541,"New Orleans, LA",2019,18.36,430000,Office and administrative support occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+542,"New Orleans, LA",2019,22.30,470000,Construction and extraction occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+543,"New Orleans, LA",2019,23.66,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+544,"New Orleans, LA",2019,23.47,510000,Production occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+545,"New Orleans, LA",2019,20.66,530000,Transportation and material moving occupations,All levels,Full-time,44,New Orleans,LA,Louisiana,22,29.95,-90.07,390144
+546,"Oklahoma City, OK",2019,52.06,110000,Management occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+547,"Oklahoma City, OK",2019,31.78,130000,Business and financial operations occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+548,"Oklahoma City, OK",2019,22.18,150000,Computer and mathematical occupations,Level 06,All workers,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+549,"Oklahoma City, OK",2019,41.93,170000,Architecture and engineering occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+550,"Oklahoma City, OK",2019,41.18,190000,"Life, physical, and social science occupations",Not able to be leveled,All workers,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+551,"Oklahoma City, OK",2019,22.37,210000,Community and social service occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+552,"Oklahoma City, OK",2019,59.89,230000,Legal occupations,Not able to be leveled,All workers,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+553,"Oklahoma City, OK",2019,10.62,250000,Educational instruction and library occupations,Level 03,All workers,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+554,"Oklahoma City, OK",2019,26.50,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+555,"Oklahoma City, OK",2019,36.21,290000,Healthcare practitioners and technical occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+556,"Oklahoma City, OK",2019,15.17,310000,Healthcare support occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+557,"Oklahoma City, OK",2019,24.31,330000,Protective service occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+558,"Oklahoma City, OK",2019,13.14,350000,Food preparation and serving related occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+559,"Oklahoma City, OK",2019,13.39,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+560,"Oklahoma City, OK",2019,14.30,390000,Personal care and service occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+561,"Oklahoma City, OK",2019,9.21,410000,Sales and related occupations,Level 01,All workers,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+562,"Oklahoma City, OK",2019,18.26,430000,Office and administrative support occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+563,"Oklahoma City, OK",2019,23.04,470000,Construction and extraction occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+564,"Oklahoma City, OK",2019,22.60,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+565,"Oklahoma City, OK",2019,18.83,510000,Production occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+566,"Oklahoma City, OK",2019,18.05,530000,Transportation and material moving occupations,All levels,Full-time,26,Oklahoma City,OK,Oklahoma,40,35.47,-97.52,797434
+567,"Omaha, NE",2019,51.90,110000,Management occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+568,"Omaha, NE",2019,33.24,130000,Business and financial operations occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+569,"Omaha, NE",2019,39.63,150000,Computer and mathematical occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+570,"Omaha, NE",2019,24.05,170000,Architecture and engineering occupations,Level 06,All workers,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+571,"Omaha, NE",2019,33.63,190000,"Life, physical, and social science occupations",All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+572,"Omaha, NE",2019,23.12,210000,Community and social service occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+573,"Omaha, NE",2019,44.80,230000,Legal occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+574,"Omaha, NE",2019,28.89,250000,Educational instruction and library occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+575,"Omaha, NE",2019,25.07,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+576,"Omaha, NE",2019,39.69,290000,Healthcare practitioners and technical occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+577,"Omaha, NE",2019,16.02,310000,Healthcare support occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+578,"Omaha, NE",2019,25.04,330000,Protective service occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+579,"Omaha, NE",2019,14.53,350000,Food preparation and serving related occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+580,"Omaha, NE",2019,15.33,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+581,"Omaha, NE",2019,15.48,390000,Personal care and service occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+582,"Omaha, NE",2019,25.30,410000,Sales and related occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+583,"Omaha, NE",2019,19.53,430000,Office and administrative support occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+584,"Omaha, NE",2019,24.23,470000,Construction and extraction occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+585,"Omaha, NE",2019,23.91,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+586,"Omaha, NE",2019,18.86,510000,Production occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+587,"Omaha, NE",2019,18.86,530000,Transportation and material moving occupations,All levels,Full-time,40,Omaha,NE,Nebraska,31,41.25,-96.0,571327
+588,"Philadelphia, PA",2019,68.75,110000,Management occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+589,"Philadelphia, PA",2019,40.01,130000,Business and financial operations occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+590,"Philadelphia, PA",2019,45.38,150000,Computer and mathematical occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+591,"Philadelphia, PA",2019,44.11,170000,Architecture and engineering occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+592,"Philadelphia, PA",2019,42.61,190000,"Life, physical, and social science occupations",All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+593,"Philadelphia, PA",2019,24.89,210000,Community and social service occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+594,"Philadelphia, PA",2019,55.81,230000,Legal occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+595,"Philadelphia, PA",2019,17.26,250000,Educational instruction and library occupations,Level 06,All workers,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+596,"Philadelphia, PA",2019,30.70,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+597,"Philadelphia, PA",2019,42.83,290000,Healthcare practitioners and technical occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+598,"Philadelphia, PA",2019,15.83,310000,Healthcare support occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+599,"Philadelphia, PA",2019,27.57,330000,Protective service occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+600,"Philadelphia, PA",2019,16.32,350000,Food preparation and serving related occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+601,"Philadelphia, PA",2019,17.21,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+602,"Philadelphia, PA",2019,16.53,390000,Personal care and service occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+603,"Philadelphia, PA",2019,30.37,410000,Sales and related occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+604,"Philadelphia, PA",2019,22.04,430000,Office and administrative support occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+605,"Philadelphia, PA",2019,30.08,470000,Construction and extraction occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+606,"Philadelphia, PA",2019,26.82,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+607,"Philadelphia, PA",2019,21.30,510000,Production occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+608,"Philadelphia, PA",2019,18.85,530000,Transportation and material moving occupations,All levels,Full-time,14,Philadelphia,PA,Pennsylvania,42,39.95,-75.17,1584064
+609,"Phoenix, AZ",2019,54.71,110000,Management occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+610,"Phoenix, AZ",2019,33.76,130000,Business and financial operations occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+611,"Phoenix, AZ",2019,42.16,150000,Computer and mathematical occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+612,"Phoenix, AZ",2019,40.00,170000,Architecture and engineering occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+613,"Phoenix, AZ",2019,30.27,190000,"Life, physical, and social science occupations",All levels,Time-based pay,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+614,"Phoenix, AZ",2019,22.91,210000,Community and social service occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+615,"Phoenix, AZ",2019,57.36,230000,Legal occupations,Not able to be leveled,All workers,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+616,"Phoenix, AZ",2019,24.09,250000,Educational instruction and library occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+617,"Phoenix, AZ",2019,29.27,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+618,"Phoenix, AZ",2019,43.26,290000,Healthcare practitioners and technical occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+619,"Phoenix, AZ",2019,16.10,310000,Healthcare support occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+620,"Phoenix, AZ",2019,24.89,330000,Protective service occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+621,"Phoenix, AZ",2019,16.61,350000,Food preparation and serving related occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+622,"Phoenix, AZ",2019,15.15,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+623,"Phoenix, AZ",Not Found,Not Found,390000,Personal care and service occupations,Not Found,Not Found,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+624,"Phoenix, AZ",2019,25.27,410000,Sales and related occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+625,"Phoenix, AZ",2019,19.94,430000,Office and administrative support occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+626,"Phoenix, AZ",2019,22.95,470000,Construction and extraction occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+627,"Phoenix, AZ",2019,23.82,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+628,"Phoenix, AZ",2019,19.41,510000,Production occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+629,"Phoenix, AZ",2019,21.29,530000,Transportation and material moving occupations,All levels,Full-time,5,Phoenix,AZ,Arizona,4,33.45,-112.07,4485414
+630,"Portland, OR",2019,55.70,110000,Management occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+631,"Portland, OR",2019,36.90,130000,Business and financial operations occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+632,"Portland, OR",2019,44.72,150000,Computer and mathematical occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+633,"Portland, OR",2019,40.68,170000,Architecture and engineering occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+634,"Portland, OR",2019,35.86,190000,"Life, physical, and social science occupations",All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+635,"Portland, OR",2019,27.10,210000,Community and social service occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+636,"Portland, OR",2019,46.33,230000,Legal occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+637,"Portland, OR",2019,34.97,250000,Educational instruction and library occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+638,"Portland, OR",2019,32.35,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+639,"Portland, OR",2019,47.34,290000,Healthcare practitioners and technical occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+640,"Portland, OR",2019,18.35,310000,Healthcare support occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+641,"Portland, OR",2019,15.12,330000,Protective service occupations,Level 01,All workers,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+642,"Portland, OR",2019,16.87,350000,Food preparation and serving related occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+643,"Portland, OR",2019,17.05,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+644,"Portland, OR",2019,17.14,390000,Personal care and service occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+645,"Portland, OR",2019,12.51,410000,Sales and related occupations,Level 01,All workers,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+646,"Portland, OR",2019,21.53,430000,Office and administrative support occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+647,"Portland, OR",2019,20.15,470000,Construction and extraction occupations,Level 04,All workers,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+648,"Portland, OR",2019,25.66,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+649,"Portland, OR",2019,21.04,510000,Production occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+650,"Portland, OR",2019,21.24,530000,Transportation and material moving occupations,All levels,Full-time,24,Portland,OR,Oregon,41,45.52,-122.68,812855
+651,"Salt Lake City, UT",2019,50.33,110000,Management occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+652,"Salt Lake City, UT",2019,32.76,130000,Business and financial operations occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+653,"Salt Lake City, UT",2019,40.81,150000,Computer and mathematical occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+654,"Salt Lake City, UT",2019,23.20,170000,Architecture and engineering occupations,Level 06,All workers,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+655,"Salt Lake City, UT",2019,30.63,190000,"Life, physical, and social science occupations",All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+656,"Salt Lake City, UT",2019,25.93,210000,Community and social service occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+657,"Salt Lake City, UT",2019,51.00,230000,Legal occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+658,"Salt Lake City, UT",2019,11.53,250000,Educational instruction and library occupations,Level 03,All workers,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+659,"Salt Lake City, UT",2019,28.12,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+660,"Salt Lake City, UT",2019,16.44,290000,Healthcare practitioners and technical occupations,Level 04,All workers,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+661,"Salt Lake City, UT",2019,16.59,310000,Healthcare support occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+662,"Salt Lake City, UT",2019,24.58,330000,Protective service occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+663,"Salt Lake City, UT",2019,12.78,350000,Food preparation and serving related occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+664,"Salt Lake City, UT",2019,14.95,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+665,"Salt Lake City, UT",2019,15.63,390000,Personal care and service occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+666,"Salt Lake City, UT",2019,26.91,410000,Sales and related occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+667,"Salt Lake City, UT",2019,19.36,430000,Office and administrative support occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+668,"Salt Lake City, UT",2019,24.58,470000,Construction and extraction occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+669,"Salt Lake City, UT",2019,23.75,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+670,"Salt Lake City, UT",2019,19.27,510000,Production occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+671,"Salt Lake City, UT",2019,20.75,530000,Transportation and material moving occupations,All levels,Full-time,50,Salt Lake City,UT,Utah,49,40.76,-111.89,1160437
+672,"San Antonio, TX",2019,55.47,110000,Management occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+673,"San Antonio, TX",2019,34.53,130000,Business and financial operations occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+674,"San Antonio, TX",2019,41.76,150000,Computer and mathematical occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+675,"San Antonio, TX",2019,22.45,170000,Architecture and engineering occupations,Level 05,All workers,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+676,"San Antonio, TX",2019,32.74,190000,"Life, physical, and social science occupations",Not able to be leveled,All workers,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+677,"San Antonio, TX",2019,23.91,210000,Community and social service occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+678,"San Antonio, TX",2019,47.42,230000,Legal occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+679,"San Antonio, TX",2019,25.22,250000,Educational instruction and library occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+680,"San Antonio, TX",2019,25.81,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+681,"San Antonio, TX",2019,16.61,290000,Healthcare practitioners and technical occupations,Level 04,All workers,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+682,"San Antonio, TX",2019,15.18,310000,Healthcare support occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+683,"San Antonio, TX",2019,11.76,330000,Protective service occupations,Level 02,All workers,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+684,"San Antonio, TX",2019,14.65,350000,Food preparation and serving related occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+685,"San Antonio, TX",2019,13.45,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+686,"San Antonio, TX",2019,14.14,390000,Personal care and service occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+687,"San Antonio, TX",2019,23.08,410000,Sales and related occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+688,"San Antonio, TX",2019,18.22,430000,Office and administrative support occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+689,"San Antonio, TX",2019,20.93,470000,Construction and extraction occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+690,"San Antonio, TX",2019,22.30,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+691,"San Antonio, TX",2019,17.74,510000,Production occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+692,"San Antonio, TX",2019,17.57,530000,Transportation and material moving occupations,All levels,Full-time,11,San Antonio,TX,Texas,48,29.42,-98.49,2003554
+693,"San Diego, CA",2019,64.72,110000,Management occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+694,"San Diego, CA",2019,37.97,130000,Business and financial operations occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+695,"San Diego, CA",2019,49.24,150000,Computer and mathematical occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+696,"San Diego, CA",2019,46.93,170000,Architecture and engineering occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+697,"San Diego, CA",2019,41.27,190000,"Life, physical, and social science occupations",All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+698,"San Diego, CA",2019,27.31,210000,Community and social service occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+699,"San Diego, CA",2019,60.48,230000,Legal occupations,Not able to be leveled,All workers,6,San Diego,CA,California,6,32.72,-117.16,3338330
+700,"San Diego, CA",2019,14.88,250000,Educational instruction and library occupations,Level 04,All workers,6,San Diego,CA,California,6,32.72,-117.16,3338330
+701,"San Diego, CA",2019,30.80,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+702,"San Diego, CA",2019,48.31,290000,Healthcare practitioners and technical occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+703,"San Diego, CA",2019,16.90,310000,Healthcare support occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+704,"San Diego, CA",2019,29.73,330000,Protective service occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+705,"San Diego, CA",2019,17.58,350000,Food preparation and serving related occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+706,"San Diego, CA",2019,17.36,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+707,"San Diego, CA",2019,17.89,390000,Personal care and service occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+708,"San Diego, CA",2019,25.81,410000,Sales and related occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+709,"San Diego, CA",2019,21.87,430000,Office and administrative support occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+710,"San Diego, CA",2019,28.39,470000,Construction and extraction occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+711,"San Diego, CA",2019,25.91,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+712,"San Diego, CA",2019,21.06,510000,Production occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+713,"San Diego, CA",2019,20.03,530000,Transportation and material moving occupations,All levels,Full-time,6,San Diego,CA,California,6,32.72,-117.16,3338330
+714,"Oakland, CA",2019,77.02,110000,Management occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+715,"Oakland, CA",2019,47.02,130000,Business and financial operations occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+716,"Oakland, CA",2019,59.99,150000,Computer and mathematical occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+717,"Oakland, CA",2019,51.00,170000,Architecture and engineering occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+718,"Oakland, CA",2019,48.46,190000,"Life, physical, and social science occupations",All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+719,"Oakland, CA",2019,31.32,210000,Community and social service occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+720,"Oakland, CA",2019,51.69,230000,Legal occupations,Level 09,All workers,41,Oakland,CA,California,6,37.8,-122.27,1671329
+721,"Oakland, CA",2019,37.80,250000,Educational instruction and library occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+722,"Oakland, CA",2019,38.83,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+723,"Oakland, CA",2019,53.20,290000,Healthcare practitioners and technical occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+724,"Oakland, CA",2019,17.99,310000,Healthcare support occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+725,"Oakland, CA",2019,35.32,330000,Protective service occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+726,"Oakland, CA",2019,19.95,350000,Food preparation and serving related occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+727,"Oakland, CA",2019,20.74,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+728,"Oakland, CA",2019,19.85,390000,Personal care and service occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+729,"Oakland, CA",2019,12.88,410000,Sales and related occupations,Level 01,All workers,41,Oakland,CA,California,6,37.8,-122.27,1671329
+730,"Oakland, CA",2019,26.36,430000,Office and administrative support occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+731,"Oakland, CA",2019,36.34,470000,Construction and extraction occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+732,"Oakland, CA",2019,31.20,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+733,"Oakland, CA",2019,23.68,510000,Production occupations,All levels,Full-time,41,Oakland,CA,California,6,37.8,-122.27,1671329
+734,"Oakland, CA",2019,13.70,530000,Transportation and material moving occupations,Level 01,All workers,41,Oakland,CA,California,6,37.8,-122.27,1671329
+735,"San Jose, CA",2019,83.75,110000,Management occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+736,"San Jose, CA",2019,47.40,130000,Business and financial operations occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+737,"San Jose, CA",2019,64.39,150000,Computer and mathematical occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+738,"San Jose, CA",2019,58.54,170000,Architecture and engineering occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+739,"San Jose, CA",2019,42.53,190000,"Life, physical, and social science occupations",Level 09,All workers,12,San Jose,CA,California,6,37.34,-121.89,1927852
+740,"San Jose, CA",2019,33.49,210000,Community and social service occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+741,"San Jose, CA",2019,85.96,230000,Legal occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+742,"San Jose, CA",2019,19.50,250000,Educational instruction and library occupations,Level 06,All workers,12,San Jose,CA,California,6,37.34,-121.89,1927852
+743,"San Jose, CA",2019,36.33,270000,"Arts, design, entertainment, sports, and media occupations",Not able to be leveled,All workers,12,San Jose,CA,California,6,37.34,-121.89,1927852
+744,"San Jose, CA",2019,24.58,290000,Healthcare practitioners and technical occupations,Level 05,All workers,12,San Jose,CA,California,6,37.34,-121.89,1927852
+745,"San Jose, CA",2019,14.20,310000,Healthcare support occupations,Level 03,All workers,12,San Jose,CA,California,6,37.34,-121.89,1927852
+746,"San Jose, CA",2019,16.91,330000,Protective service occupations,Level 02,All workers,12,San Jose,CA,California,6,37.34,-121.89,1927852
+747,"San Jose, CA",2019,18.23,350000,Food preparation and serving related occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+748,"San Jose, CA",2019,19.72,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+749,"San Jose, CA",2019,18.76,390000,Personal care and service occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+750,"San Jose, CA",2019,35.23,410000,Sales and related occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+751,"San Jose, CA",2019,25.86,430000,Office and administrative support occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+752,"San Jose, CA",2019,33.29,470000,Construction and extraction occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+753,"San Jose, CA",2019,30.81,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+754,"San Jose, CA",2019,22.64,510000,Production occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+755,"San Jose, CA",2019,21.16,530000,Transportation and material moving occupations,All levels,Full-time,12,San Jose,CA,California,6,37.34,-121.89,1927852
+756,"Seattle, WA",2019,67.91,110000,Management occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+757,"Seattle, WA",2019,42.82,130000,Business and financial operations occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+758,"Seattle, WA",2019,58.50,150000,Computer and mathematical occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+759,"Seattle, WA",2019,50.71,170000,Architecture and engineering occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+760,"Seattle, WA",2019,39.88,190000,"Life, physical, and social science occupations",All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+761,"Seattle, WA",2019,26.21,210000,Community and social service occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+762,"Seattle, WA",2019,53.58,230000,Legal occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+763,"Seattle, WA",2019,24.53,250000,Educational instruction and library occupations,Level 07,All workers,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+764,"Seattle, WA",2019,35.40,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+765,"Seattle, WA",2019,48.28,290000,Healthcare practitioners and technical occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+766,"Seattle, WA",2019,18.65,310000,Healthcare support occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+767,"Seattle, WA",2019,31.77,330000,Protective service occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+768,"Seattle, WA",2019,19.97,350000,Food preparation and serving related occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+769,"Seattle, WA",2019,18.84,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+770,"Seattle, WA",2019,20.94,390000,Personal care and service occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+771,"Seattle, WA",2019,30.97,410000,Sales and related occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+772,"Seattle, WA",2019,23.73,430000,Office and administrative support occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+773,"Seattle, WA",2019,33.34,470000,Construction and extraction occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+774,"Seattle, WA",2019,29.65,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+775,"Seattle, WA",2019,25.56,510000,Production occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+776,"Seattle, WA",2019,25.32,530000,Transportation and material moving occupations,All levels,Full-time,9,Seattle,WA,Washington,53,47.61,-122.33,2252782
+777,"Tampa, FL",2019,55.18,110000,Management occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+778,"Tampa, FL",2019,33.44,130000,Business and financial operations occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+779,"Tampa, FL",2019,41.05,150000,Computer and mathematical occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+780,"Tampa, FL",2019,36.20,170000,Architecture and engineering occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+781,"Tampa, FL",2019,32.62,190000,"Life, physical, and social science occupations",All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+782,"Tampa, FL",2019,22.31,210000,Community and social service occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+783,"Tampa, FL",2019,42.82,230000,Legal occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+784,"Tampa, FL",2019,27.09,250000,Educational instruction and library occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+785,"Tampa, FL",2019,26.78,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+786,"Tampa, FL",2019,38.84,290000,Healthcare practitioners and technical occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+787,"Tampa, FL",2019,15.29,310000,Healthcare support occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+788,"Tampa, FL",2019,24.63,330000,Protective service occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+789,"Tampa, FL",2019,14.49,350000,Food preparation and serving related occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+790,"Tampa, FL",2019,14.60,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+791,"Tampa, FL",2019,16.00,390000,Personal care and service occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+792,"Tampa, FL",2019,25.45,410000,Sales and related occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+793,"Tampa, FL",2019,18.91,430000,Office and administrative support occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+794,"Tampa, FL",2019,19.74,470000,Construction and extraction occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+795,"Tampa, FL",2019,21.76,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+796,"Tampa, FL",2019,17.99,510000,Production occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+797,"Tampa, FL",2019,18.10,530000,Transportation and material moving occupations,All levels,Full-time,43,Tampa,FL,Florida,12,27.95,-82.46,1471968
+798,"Tucson, AZ",2019,48.18,110000,Management occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+799,"Tucson, AZ",2019,34.09,130000,Business and financial operations occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+800,"Tucson, AZ",2019,40.13,150000,Computer and mathematical occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+801,"Tucson, AZ",2019,42.41,170000,Architecture and engineering occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+802,"Tucson, AZ",2019,30.74,190000,"Life, physical, and social science occupations",All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+803,"Tucson, AZ",2019,20.50,210000,Community and social service occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+804,"Tucson, AZ",2019,47.25,230000,Legal occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+805,"Tucson, AZ",2019,26.72,250000,Educational instruction and library occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+806,"Tucson, AZ",2019,25.17,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+807,"Tucson, AZ",2019,41.31,290000,Healthcare practitioners and technical occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+808,"Tucson, AZ",2019,15.16,310000,Healthcare support occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+809,"Tucson, AZ",2019,23.28,330000,Protective service occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+810,"Tucson, AZ",2019,16.31,350000,Food preparation and serving related occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+811,"Tucson, AZ",2019,14.34,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+812,"Tucson, AZ",2019,16.04,390000,Personal care and service occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+813,"Tucson, AZ",2019,12.24,410000,Sales and related occupations,Level 02,All workers,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+814,"Tucson, AZ",2019,18.25,430000,Office and administrative support occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+815,"Tucson, AZ",2019,20.93,470000,Construction and extraction occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+816,"Tucson, AZ",2019,21.35,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+817,"Tucson, AZ",2019,19.78,510000,Production occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+818,"Tucson, AZ",2019,18.11,530000,Transportation and material moving occupations,All levels,Full-time,33,Tucson,AZ,Arizona,4,32.22,-110.93,1047279
+819,"Tulsa, OK",2019,54.24,110000,Management occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+820,"Tulsa, OK",2019,33.32,130000,Business and financial operations occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+821,"Tulsa, OK",2019,35.00,150000,Computer and mathematical occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+822,"Tulsa, OK",2019,22.53,170000,Architecture and engineering occupations,Level 05,All workers,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+823,"Tulsa, OK",2019,45.19,190000,"Life, physical, and social science occupations",Not able to be leveled,All workers,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+824,"Tulsa, OK",2019,21.64,210000,Community and social service occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+825,"Tulsa, OK",2019,48.94,230000,Legal occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+826,"Tulsa, OK",2019,23.05,250000,Educational instruction and library occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+827,"Tulsa, OK",2019,24.91,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+828,"Tulsa, OK",2019,15.42,290000,Healthcare practitioners and technical occupations,Level 04,All workers,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+829,"Tulsa, OK",2019,14.73,310000,Healthcare support occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+830,"Tulsa, OK",2019,20.05,330000,Protective service occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+831,"Tulsa, OK",2019,12.35,350000,Food preparation and serving related occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+832,"Tulsa, OK",2019,13.53,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+833,"Tulsa, OK",2019,14.13,390000,Personal care and service occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+834,"Tulsa, OK",2019,24.71,410000,Sales and related occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+835,"Tulsa, OK",2019,18.86,430000,Office and administrative support occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+836,"Tulsa, OK",2019,22.33,470000,Construction and extraction occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+837,"Tulsa, OK",2019,23.19,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+838,"Tulsa, OK",2019,19.80,510000,Production occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+839,"Tulsa, OK",2019,18.41,530000,Transportation and material moving occupations,All levels,Full-time,53,Tulsa,OK,Oklahoma,40,36.15,-95.99,651552
+840,"Honolulu, HI",2019,54.78,110000,Management occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+841,"Honolulu, HI",2019,34.64,130000,Business and financial operations occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+842,"Honolulu, HI",2019,29.43,150000,Computer and mathematical occupations,Level 07,All workers,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+843,"Honolulu, HI",2019,38.61,170000,Architecture and engineering occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+844,"Honolulu, HI",2019,36.42,190000,"Life, physical, and social science occupations",All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+845,"Honolulu, HI",2019,27.01,210000,Community and social service occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+846,"Honolulu, HI",2019,42.65,230000,Legal occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+847,"Honolulu, HI",2019,14.54,250000,Educational instruction and library occupations,Level 04,All workers,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+848,"Honolulu, HI",2019,30.64,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+849,"Honolulu, HI",2019,17.70,290000,Healthcare practitioners and technical occupations,Level 04,All workers,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+850,"Honolulu, HI",2019,17.65,310000,Healthcare support occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+851,"Honolulu, HI",2019,27.50,330000,Protective service occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+852,"Honolulu, HI",2019,22.90,350000,Food preparation and serving related occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+853,"Honolulu, HI",2019,18.47,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+854,"Honolulu, HI",2019,18.90,390000,Personal care and service occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+855,"Honolulu, HI",2019,23.72,410000,Sales and related occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+856,"Honolulu, HI",2019,21.94,430000,Office and administrative support occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+857,"Honolulu, HI",2019,35.34,470000,Construction and extraction occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+858,"Honolulu, HI",2019,27.91,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+859,"Honolulu, HI",2019,21.06,510000,Production occupations,All levels,Full-time,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+860,"Honolulu, HI",2019,15.06,530000,Transportation and material moving occupations,Level 02,All workers,48,Honolulu,HI,Hawaii,15,21.31,-157.86,974563
+861,"Virginia Beach, VA",2019,56.80,110000,Management occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+862,"Virginia Beach, VA",2019,35.79,130000,Business and financial operations occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+863,"Virginia Beach, VA",2019,41.66,150000,Computer and mathematical occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+864,"Virginia Beach, VA",2019,38.70,170000,Architecture and engineering occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+865,"Virginia Beach, VA",2019,34.73,190000,"Life, physical, and social science occupations",All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+866,"Virginia Beach, VA",2019,24.65,210000,Community and social service occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+867,"Virginia Beach, VA",2019,17.68,230000,Legal occupations,Level 06,All workers,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+868,"Virginia Beach, VA",2019,31.70,250000,Educational instruction and library occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+869,"Virginia Beach, VA",2019,28.89,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+870,"Virginia Beach, VA",2019,38.86,290000,Healthcare practitioners and technical occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+871,"Virginia Beach, VA",2019,16.28,310000,Healthcare support occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+872,"Virginia Beach, VA",2019,22.95,330000,Protective service occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+873,"Virginia Beach, VA",2019,13.66,350000,Food preparation and serving related occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+874,"Virginia Beach, VA",2019,13.04,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+875,"Virginia Beach, VA",2019,15.95,390000,Personal care and service occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+876,"Virginia Beach, VA",2019,9.12,410000,Sales and related occupations,Level 01,All workers,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+877,"Virginia Beach, VA",2019,18.81,430000,Office and administrative support occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+878,"Virginia Beach, VA",2019,22.50,470000,Construction and extraction occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+879,"Virginia Beach, VA",2019,24.02,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+880,"Virginia Beach, VA",2019,20.45,510000,Production occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+881,"Virginia Beach, VA",2019,18.05,530000,Transportation and material moving occupations,All levels,Full-time,51,Virginia Beach,VA,Virginia,51,36.85,-75.98,449974
+882,"Washington, DC",2019,74.49,110000,Management occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+883,"Washington, DC",2019,44.72,130000,Business and financial operations occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+884,"Washington, DC",2019,51.62,150000,Computer and mathematical occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+885,"Washington, DC",2019,48.62,170000,Architecture and engineering occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+886,"Washington, DC",2019,47.39,190000,"Life, physical, and social science occupations",All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+887,"Washington, DC",2019,29.81,210000,Community and social service occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+888,"Washington, DC",2019,94.92,230000,Legal occupations,Not able to be leveled,All workers,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+889,"Washington, DC",2019,36.09,250000,Educational instruction and library occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+890,"Washington, DC",2019,41.62,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+891,"Washington, DC",2019,45.98,290000,Healthcare practitioners and technical occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+892,"Washington, DC",2019,17.38,310000,Healthcare support occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+893,"Washington, DC",2019,27.97,330000,Protective service occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+894,"Washington, DC",2019,16.89,350000,Food preparation and serving related occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+895,"Washington, DC",2019,17.30,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+896,"Washington, DC",2019,11.04,390000,Personal care and service occupations,Level 02,All workers,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+897,"Washington, DC",2019,30.90,410000,Sales and related occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+898,"Washington, DC",2019,24.18,430000,Office and administrative support occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+899,"Washington, DC",2019,25.59,470000,Construction and extraction occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+900,"Washington, DC",2019,27.85,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+901,"Washington, DC",2019,21.38,510000,Production occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+902,"Washington, DC",2019,21.80,530000,Transportation and material moving occupations,All levels,Full-time,29,Washington,DC,District of Columbia,11,38.91,-77.04,705749
+903,"Wichita, KS",2019,50.16,110000,Management occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+904,"Wichita, KS",2019,33.46,130000,Business and financial operations occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+905,"Wichita, KS",2019,19.78,150000,Computer and mathematical occupations,Level 06,All workers,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+906,"Wichita, KS",2019,41.46,170000,Architecture and engineering occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+907,"Wichita, KS",2019,30.27,190000,"Life, physical, and social science occupations",All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+908,"Wichita, KS",2019,15.77,210000,Community and social service occupations,Level 06,All workers,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+909,"Wichita, KS",2019,33.65,230000,Legal occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+910,"Wichita, KS",2019,11.47,250000,Educational instruction and library occupations,Level 03,All workers,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+911,"Wichita, KS",2019,25.92,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+912,"Wichita, KS",2019,35.63,290000,Healthcare practitioners and technical occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+913,"Wichita, KS",2019,14.32,310000,Healthcare support occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+914,"Wichita, KS",2019,21.88,330000,Protective service occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+915,"Wichita, KS",2019,13.28,350000,Food preparation and serving related occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+916,"Wichita, KS",2019,14.91,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+917,"Wichita, KS",2019,16.93,390000,Personal care and service occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+918,"Wichita, KS",2019,10.05,410000,Sales and related occupations,Level 01,All workers,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+919,"Wichita, KS",2019,18.70,430000,Office and administrative support occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+920,"Wichita, KS",2019,21.01,470000,Construction and extraction occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+921,"Wichita, KS",2019,24.40,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+922,"Wichita, KS",2019,23.25,510000,Production occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+923,"Wichita, KS",2019,18.93,530000,Transportation and material moving occupations,All levels,Full-time,45,Wichita,KS,Kansas,20,37.69,-97.34,516042
+924,"Boston, MA",2019,68.19,110000,Management occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+925,"Boston, MA",2019,43.52,130000,Business and financial operations occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+926,"Boston, MA",2019,49.75,150000,Computer and mathematical occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+927,"Boston, MA",2019,47.08,170000,Architecture and engineering occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+928,"Boston, MA",2019,42.43,190000,"Life, physical, and social science occupations",Level 09,All workers,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+929,"Boston, MA",2019,25.14,210000,Community and social service occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+930,"Boston, MA",2019,68.66,230000,Legal occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+931,"Boston, MA",2019,16.75,250000,Educational instruction and library occupations,Level 04,All workers,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+932,"Boston, MA",2019,34.76,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+933,"Boston, MA",2019,49.07,290000,Healthcare practitioners and technical occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+934,"Boston, MA",2019,17.33,310000,Healthcare support occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+935,"Boston, MA",2019,31.17,330000,Protective service occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+936,"Boston, MA",2019,18.32,350000,Food preparation and serving related occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+937,"Boston, MA",2019,20.49,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+938,"Boston, MA",2019,19.79,390000,Personal care and service occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+939,"Boston, MA",2019,33.17,410000,Sales and related occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+940,"Boston, MA",2019,24.75,430000,Office and administrative support occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+941,"Boston, MA",2019,32.72,470000,Construction and extraction occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+942,"Boston, MA",2019,28.41,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+943,"Boston, MA",2019,21.71,510000,Production occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+944,"Boston, MA",2019,22.54,530000,Transportation and material moving occupations,All levels,Full-time,25,Boston,MA,Massachusetts,25,42.36,-71.06,803907
+945,"New York City, NY",2019,76.33,110000,Management occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+946,"New York City, NY",2019,46.55,130000,Business and financial operations occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+947,"New York City, NY",2019,48.30,150000,Computer and mathematical occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+948,"New York City, NY",2019,43.24,170000,Architecture and engineering occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+949,"New York City, NY",2019,37.96,190000,"Life, physical, and social science occupations",All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+950,"New York City, NY",2019,26.91,210000,Community and social service occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+951,"New York City, NY",2019,62.45,230000,Legal occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+952,"New York City, NY",2019,16.36,250000,Educational instruction and library occupations,Level 04,All workers,2,New York City,NY,New York,36,40.71,-74.01,8336817
+953,"New York City, NY",2019,39.42,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+954,"New York City, NY",2019,45.38,290000,Healthcare practitioners and technical occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+955,"New York City, NY",2019,16.61,310000,Healthcare support occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+956,"New York City, NY",2019,30.25,330000,Protective service occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+957,"New York City, NY",2019,18.45,350000,Food preparation and serving related occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+958,"New York City, NY",2019,19.77,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+959,"New York City, NY",2019,18.49,390000,Personal care and service occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+960,"New York City, NY",2019,34.97,410000,Sales and related occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+961,"New York City, NY",2019,23.84,430000,Office and administrative support occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+962,"New York City, NY",2019,31.96,470000,Construction and extraction occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+963,"New York City, NY",2019,26.79,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+964,"New York City, NY",2019,20.70,510000,Production occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+965,"New York City, NY",2019,22.50,530000,Transportation and material moving occupations,All levels,Full-time,2,New York City,NY,New York,36,40.71,-74.01,8336817
+966,"Dallas, TX",2019,62.31,110000,Management occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+967,"Dallas, TX",2019,38.68,130000,Business and financial operations occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+968,"Dallas, TX",2019,45.60,150000,Computer and mathematical occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+969,"Dallas, TX",2019,46.41,170000,Architecture and engineering occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+970,"Dallas, TX",Not Found,Not Found,190000,"Life, physical, and social science occupations",Not Found,Not Found,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+971,"Dallas, TX",2019,26.28,210000,Community and social service occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+972,"Dallas, TX",2019,26.05,230000,Legal occupations,Level 07,All workers,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+973,"Dallas, TX",2019,27.71,250000,Educational instruction and library occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+974,"Dallas, TX",2019,28.40,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+975,"Dallas, TX",2019,40.32,290000,Healthcare practitioners and technical occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+976,"Dallas, TX",2019,15.95,310000,Healthcare support occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+977,"Dallas, TX",2019,24.69,330000,Protective service occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+978,"Dallas, TX",2019,12.70,350000,Food preparation and serving related occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+979,"Dallas, TX",2019,15.24,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+980,"Dallas, TX",2019,15.45,390000,Personal care and service occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+981,"Dallas, TX",2019,26.93,410000,Sales and related occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+982,"Dallas, TX",2019,19.97,430000,Office and administrative support occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+983,"Dallas, TX",2019,21.62,470000,Construction and extraction occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+984,"Dallas, TX",2019,24.65,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+985,"Dallas, TX",2019,18.69,510000,Production occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+986,"Dallas, TX",2019,21.91,530000,Transportation and material moving occupations,All levels,Full-time,7,Dallas,TX,Texas,48,32.78,-96.8,2635516
+987,"San Francisco, CA",2019,77.02,110000,Management occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+988,"San Francisco, CA",2019,47.02,130000,Business and financial operations occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+989,"San Francisco, CA",2019,59.99,150000,Computer and mathematical occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+990,"San Francisco, CA",2019,51.00,170000,Architecture and engineering occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+991,"San Francisco, CA",2019,48.46,190000,"Life, physical, and social science occupations",All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+992,"San Francisco, CA",2019,31.32,210000,Community and social service occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+993,"San Francisco, CA",2019,51.69,230000,Legal occupations,Level 09,All workers,21,San Francisco,CA,California,6,37.77,-122.42,881549
+994,"San Francisco, CA",2019,37.80,250000,Educational instruction and library occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+995,"San Francisco, CA",2019,38.83,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+996,"San Francisco, CA",2019,53.20,290000,Healthcare practitioners and technical occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+997,"San Francisco, CA",2019,17.99,310000,Healthcare support occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+998,"San Francisco, CA",2019,35.32,330000,Protective service occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+999,"San Francisco, CA",2019,19.95,350000,Food preparation and serving related occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+1000,"San Francisco, CA",2019,20.74,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+1001,"San Francisco, CA",2019,19.85,390000,Personal care and service occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+1002,"San Francisco, CA",2019,12.88,410000,Sales and related occupations,Level 01,All workers,21,San Francisco,CA,California,6,37.77,-122.42,881549
+1003,"San Francisco, CA",2019,26.36,430000,Office and administrative support occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+1004,"San Francisco, CA",2019,36.34,470000,Construction and extraction occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+1005,"San Francisco, CA",2019,31.20,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+1006,"San Francisco, CA",2019,23.68,510000,Production occupations,All levels,Full-time,21,San Francisco,CA,California,6,37.77,-122.42,881549
+1007,"San Francisco, CA",2019,13.70,530000,Transportation and material moving occupations,Level 01,All workers,21,San Francisco,CA,California,6,37.77,-122.42,881549
+1008,"Columbus, OH",2019,24.00,110000,Management occupations,Level 07,All workers,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1009,"Columbus, OH",2019,35.97,130000,Business and financial operations occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1010,"Columbus, OH",2019,42.23,150000,Computer and mathematical occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1011,"Columbus, OH",2019,38.89,170000,Architecture and engineering occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1012,"Columbus, OH",2019,19.77,190000,"Life, physical, and social science occupations",Level 05,All workers,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1013,"Columbus, OH",2019,24.30,210000,Community and social service occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1014,"Columbus, OH",2019,43.54,230000,Legal occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1015,"Columbus, OH",2019,13.74,250000,Educational instruction and library occupations,Level 03,All workers,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1016,"Columbus, OH",2019,30.29,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1017,"Columbus, OH",2019,38.25,290000,Healthcare practitioners and technical occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1018,"Columbus, OH",2019,14.35,310000,Healthcare support occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1019,"Columbus, OH",2019,28.43,330000,Protective service occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1020,"Columbus, OH",2019,14.15,350000,Food preparation and serving related occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1021,"Columbus, OH",2019,15.57,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1022,"Columbus, OH",2019,15.64,390000,Personal care and service occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1023,"Columbus, OH",2019,25.93,410000,Sales and related occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1024,"Columbus, OH",2019,20.48,430000,Office and administrative support occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1025,"Columbus, OH",2019,24.78,470000,Construction and extraction occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1026,"Columbus, OH",2019,23.80,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1027,"Columbus, OH",2019,20.00,510000,Production occupations,All levels,Full-time,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1028,"Columbus, OH",2019,12.47,530000,Transportation and material moving occupations,Level 01,All workers,15,Columbus,OH,Ohio,39,39.96,-83.0,1316756
+1029,"Jacksonville, FL",2019,15.65,110000,Management occupations,Level 06,All workers,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1030,"Jacksonville, FL",2019,32.39,130000,Business and financial operations occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1031,"Jacksonville, FL",2019,37.91,150000,Computer and mathematical occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1032,"Jacksonville, FL",2019,38.72,170000,Architecture and engineering occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1033,"Jacksonville, FL",2019,32.46,190000,"Life, physical, and social science occupations",All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1034,"Jacksonville, FL",2019,16.25,210000,Community and social service occupations,Level 06,All workers,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1035,"Jacksonville, FL",2019,19.62,230000,Legal occupations,Level 06,All workers,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1036,"Jacksonville, FL",2019,28.88,250000,Educational instruction and library occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1037,"Jacksonville, FL",2019,26.99,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1038,"Jacksonville, FL",2019,40.21,290000,Healthcare practitioners and technical occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1039,"Jacksonville, FL",2019,15.59,310000,Healthcare support occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1040,"Jacksonville, FL",2019,20.25,330000,Protective service occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1041,"Jacksonville, FL",2019,14.12,350000,Food preparation and serving related occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1042,"Jacksonville, FL",2019,13.70,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1043,"Jacksonville, FL",2019,16.46,390000,Personal care and service occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1044,"Jacksonville, FL",2019,23.99,410000,Sales and related occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1045,"Jacksonville, FL",2019,18.85,430000,Office and administrative support occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1046,"Jacksonville, FL",2019,20.18,470000,Construction and extraction occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1047,"Jacksonville, FL",2019,22.43,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1048,"Jacksonville, FL",2019,18.29,510000,Production occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1049,"Jacksonville, FL",2019,19.62,530000,Transportation and material moving occupations,All levels,Full-time,19,Jacksonville,FL,Florida,12,30.33,-81.66,957755
+1050,"Sacramento, CA",2019,25.48,110000,Management occupations,Level 07,All workers,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1051,"Sacramento, CA",2019,37.19,130000,Business and financial operations occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1052,"Sacramento, CA",2019,46.65,150000,Computer and mathematical occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1053,"Sacramento, CA",2019,48.44,170000,Architecture and engineering occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1054,"Sacramento, CA",2019,38.27,190000,"Life, physical, and social science occupations",All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1055,"Sacramento, CA",2019,22.72,210000,Community and social service occupations,Level 06,All workers,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1056,"Sacramento, CA",2019,57.72,230000,Legal occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1057,"Sacramento, CA",2019,15.50,250000,Educational instruction and library occupations,Level 04,All workers,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1058,"Sacramento, CA",2019,20.73,270000,"Arts, design, entertainment, sports, and media occupations",Level 06,All workers,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1059,"Sacramento, CA",2019,52.47,290000,Healthcare practitioners and technical occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1060,"Sacramento, CA",2019,16.25,310000,Healthcare support occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1061,"Sacramento, CA",2019,33.85,330000,Protective service occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1062,"Sacramento, CA",2019,16.24,350000,Food preparation and serving related occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1063,"Sacramento, CA",2019,17.71,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1064,"Sacramento, CA",2019,16.65,390000,Personal care and service occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1065,"Sacramento, CA",2019,25.81,410000,Sales and related occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1066,"Sacramento, CA",2019,21.99,430000,Office and administrative support occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1067,"Sacramento, CA",2019,28.34,470000,Construction and extraction occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1068,"Sacramento, CA",2019,26.50,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1069,"Sacramento, CA",2019,21.26,510000,Production occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1070,"Sacramento, CA",2019,19.59,530000,Transportation and material moving occupations,All levels,Full-time,35,Sacramento,CA,California,6,38.58,-121.49,1552058
+1071,"Raleigh, NC",2019,27.66,110000,Management occupations,Level 08,All workers,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1072,"Raleigh, NC",2019,37.06,130000,Business and financial operations occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1073,"Raleigh, NC",2019,45.59,150000,Computer and mathematical occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1074,"Raleigh, NC",2019,23.70,170000,Architecture and engineering occupations,Level 05,All workers,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1075,"Raleigh, NC",2019,34.60,190000,"Life, physical, and social science occupations",All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1076,"Raleigh, NC",2019,16.37,210000,Community and social service occupations,Level 06,All workers,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1077,"Raleigh, NC",2019,25.15,230000,Legal occupations,Level 07,All workers,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1078,"Raleigh, NC",2019,11.57,250000,Educational instruction and library occupations,Level 03,All workers,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1079,"Raleigh, NC",2019,30.69,270000,"Arts, design, entertainment, sports, and media occupations",All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1080,"Raleigh, NC",2019,39.91,290000,Healthcare practitioners and technical occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1081,"Raleigh, NC",2019,15.21,310000,Healthcare support occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1082,"Raleigh, NC",2019,22.11,330000,Protective service occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1083,"Raleigh, NC",2019,15.31,350000,Food preparation and serving related occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1084,"Raleigh, NC",2019,14.11,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1085,"Raleigh, NC",2019,17.24,390000,Personal care and service occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1086,"Raleigh, NC",2019,29.17,410000,Sales and related occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1087,"Raleigh, NC",2019,19.26,430000,Office and administrative support occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1088,"Raleigh, NC",2019,21.84,470000,Construction and extraction occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1089,"Raleigh, NC",2019,24.48,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1090,"Raleigh, NC",2019,17.30,510000,Production occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1091,"Raleigh, NC",2019,17.88,530000,Transportation and material moving occupations,All levels,Full-time,39,Raleigh,NC,North Carolina,37,35.78,-78.64,1111761
+1092,"Bakersfield, CA",2019,24.68,110000,Management occupations,Level 07,All workers,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1093,"Bakersfield, CA",2019,35.07,130000,Business and financial operations occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1094,"Bakersfield, CA",2019,37.81,150000,Computer and mathematical occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1095,"Bakersfield, CA",2019,48.68,170000,Architecture and engineering occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1096,"Bakersfield, CA",2019,43.53,190000,"Life, physical, and social science occupations",All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1097,"Bakersfield, CA",2019,28.21,210000,Community and social service occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1098,"Bakersfield, CA",2019,49.33,230000,Legal occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1099,"Bakersfield, CA",2019,37.20,250000,Educational instruction and library occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1100,"Bakersfield, CA",2019,23.74,270000,"Arts, design, entertainment, sports, and media occupations",Not able to be leveled,All workers,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1101,"Bakersfield, CA",2019,15.94,290000,Healthcare practitioners and technical occupations,Level 04,All workers,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1102,"Bakersfield, CA",2019,14.97,310000,Healthcare support occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1103,"Bakersfield, CA",2019,40.27,330000,Protective service occupations,Level 06,All workers,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1104,"Bakersfield, CA",2019,15.79,350000,Food preparation and serving related occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1105,"Bakersfield, CA",2019,16.29,370000,Building and grounds cleaning and maintenance occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1106,"Bakersfield, CA",2019,15.57,390000,Personal care and service occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1107,"Bakersfield, CA",2019,22.37,410000,Sales and related occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1108,"Bakersfield, CA",2019,19.96,430000,Office and administrative support occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1109,"Bakersfield, CA",2019,26.13,470000,Construction and extraction occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1110,"Bakersfield, CA",2019,25.55,490000,"Installation, maintenance, and repair occupations",All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1111,"Bakersfield, CA",2019,22.00,510000,Production occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
+1112,"Bakersfield, CA",2019,19.50,530000,Transportation and material moving occupations,All levels,Full-time,47,Bakersfield,CA,California,6,35.37,-119.02,900202
