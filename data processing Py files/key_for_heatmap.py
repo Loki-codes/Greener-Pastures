@@ -1,1 +1,1 @@
-g_key = "AIzaSyBqJRMud3yBzrg8GkrNJp1rNP8eqDDuYf8"
+g_key = "Enter your key"
